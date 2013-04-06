@@ -1,0 +1,6 @@
+<MarketplaceDetails>
+  <SmallAppTile>3D-twitter.png</SmallAppTile>
+  <LargeAppTile>Background.png</LargeAppTile>
+  <PCAppTile>market-icon.png</PCAppTile>
+  <ScreenShots>start.png;process.png;# of tweets.png;results.png;;;;;</ScreenShots>
+</MarketplaceDetails>
